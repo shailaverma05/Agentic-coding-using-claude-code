@@ -35,7 +35,7 @@ Addressing the Fear of AI Replacement
 Anxiety about AI replacing engineers stems primarily from the fear of the unknown. Passive developers who cling exclusively to manual syntax entry risk falling behind, whereas developers who master agentic workflows turn AI into leverage, increasing their output and engineering value.
 
 Mindmap
-'''mermaid
+```mermaid
 mindmap
   root((Claude Code & AI Coding))
     Mindset & Industry Shift
@@ -60,4 +60,4 @@ mindmap
       Project: Full-Stack Expense Tracker
       Stack: Python, Flask, HTML/CSS, Git
       Core Features: Auth, Analytics, Filtering, CRUD
-      '''
+      ```
